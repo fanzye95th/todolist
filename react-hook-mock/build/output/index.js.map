@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log","document","write"],"mappings":";;;AAIA,aAJA,QAAA,gBAGAA,QAAQC,IAAI,eACZC,SAASC,MAAM","file":"index.js","sourceRoot":"..\\..","sourcesContent":["import  './index.scss'\r\n\r\n\r\nconsole.log('hello world')\r\ndocument.write('开始parcel')"]}
